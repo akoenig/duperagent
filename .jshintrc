@@ -18,9 +18,11 @@
     "quotmark": "single",
     "indent": 4,
     "node": true,
+    "esnext": true,
     "globals": {
       "describe": false,
       "it": false,
-      "beforeEach": false
+      "beforeEach": false,
+      "afterEach": false
     }
 }
