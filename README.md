@@ -1,4 +1,4 @@
-# duperagent
+# duperagent [![Build Status](https://travis-ci.org/akoenig/duperagent.svg?branch=master)](https://travis-ci.org/akoenig/duperagent)
 
 Personal convenience wrapper around [superagent](https://github.com/visionmedia/superagent).
 
